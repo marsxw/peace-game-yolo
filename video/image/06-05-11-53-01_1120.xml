@@ -1,0 +1,14 @@
+<annotation>
+	<folder>image</folder>
+	<filename>06-05-11-53-01_1120.jpg</filename>
+	<path>D:\game_yolov8\video\image\06-05-11-53-01_1120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

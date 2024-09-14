@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>06-05-11-44-51_1380.jpg</filename>
+	<path>D:\game_yolov8\video\image\06-05-11-44-51_1380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enemy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>221</ymin>
+			<xmax>829</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
